@@ -30,7 +30,11 @@
   "devDependencies": {
     "ava": "^3.8.2",
     "codecov": "^3.8.0",
+ snyk-upgrade-ec9e80e3e85e1555951019c9c7c07aa8
+    "electron-releases": "^3.708.0",
+
     "electron-releases": "^3.824.0",
+ master
     "nyc": "^15.1.0",
     "request": "^2.88.0",
     "shelljs": "^0.8.4"
